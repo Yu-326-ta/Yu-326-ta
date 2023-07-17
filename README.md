@@ -1,4 +1,4 @@
-## I'm Yuta Yoshinaga!
+## I'm Yuta Yoshinaga 👋
 [![](https://komarev.com/ghpvc/?username=Yu-326-ta&color=blue)](Yu-326-ta)
 
 ### Github Commit
