@@ -9,7 +9,7 @@
 </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Yu-326-ta&title=Joined2022,Commit,PullRequest,Repositories,Issues" height="150px" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Yu-326-ta height="150px" />
 </a>
 
 ### I'm styding 
