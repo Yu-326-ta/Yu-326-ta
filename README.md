@@ -7,7 +7,7 @@
 </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Yu-326-ta&title=MultiLaunguage,PullReauest,Repository,Experience,Commit,Followers,Issues,Stars" height="151px" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Yu-326-ta&title=MultiLanguage,PullReauest,Repository,Experience,Commit,Followers,Issues,Stars" height="151px" />
 </a>
 
 ### I'm styding 
