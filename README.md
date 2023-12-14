@@ -1,5 +1,12 @@
 ## I'm Yuta Yoshinaga 👋
-[![](https://komarev.com/ghpvc/?username=Yu-326-ta&color=blue)](Yu-326-ta)
+<p align="left">
+  <a href="https://github.com/Yu-326-ta/yutYu-326-takat/">
+    <img src="https://komarev.com/ghpvc/?username=Yu-326-ta" alt="Yu-326-ta" />
+  </a>
+  <a href="http://twitter.com/Yu-326-ta">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-326-ta&layout=compact&show_icons=true&theme=flag-india" />
