@@ -10,7 +10,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yu-326-ta&theme=flag-india&show_icons=ture" />
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yu-326-ta)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yu-326-ta&theme=github)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Yu-326-ta&title=MultiLanguage,PullReauest,Repository,Experience,Commit,Followers,Issues,Stars" height="151px" />
