@@ -1,4 +1,6 @@
 ## I'm Yuta Yoshinaga 👋
+[Portfolio](https://yu326ta.vercel.app/)
+
 <p align="left">
   <a href="https://github.com/Yu-326-ta/yutYu-326-takat/">
     <img src="https://komarev.com/ghpvc/?username=Yu-326-ta" alt="Yu-326-ta" />
