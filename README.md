@@ -19,7 +19,7 @@
 
 ### I'm styding 
 
-[![Language](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,go,php,ruby,rails,mysql,aws,gcp,terraform,graphql,docker&theme=dark)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,go,php,ruby,mysql,aws,gcp,terraform,graphql,docker&theme=dark&perline=8)](https://skillicons.dev)
 
 ### Portfolio
 [🤖this is my portfolio](https://yu326ta.vercel.app/)
