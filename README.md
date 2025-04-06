@@ -21,5 +21,5 @@
 
 [![Language](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,go,php,ruby,mysql,aws,gcp,terraform,graphql,docker&theme=dark&perline=8)](https://skillicons.dev)
 
-### Portfoliosite
+### Portfolio
 [🤖this is my portfolio](https://yu326ta.vercel.app/)
